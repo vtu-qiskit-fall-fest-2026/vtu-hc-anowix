@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Anowix** · Team ID `VTU-QFF-HC-0063` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Anowix)
+[⬆ Back to Top](#anowix)
 
 </div>
